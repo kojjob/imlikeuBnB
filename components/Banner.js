@@ -11,8 +11,8 @@ function Banner() {
         objectPosition='center'
       />
       <div className='absolute top-1/2 w-full text-center'>
-        <p className='text-sm sm:text-lg font-bold'>Not sure where to go</p>
-        <button className='text-gray-600 bg-white px-10 py-4 rounded-full shadow-md font-bold my-3 hover:shadow-xl active:scale-90 transition duration-150'>
+        <p className='text-sm sm:text-lg font-bold '>Not sure where to go</p>
+        <button className='text-gray-500 font-semibold bg-white px-10 py-4 rounded-full shadow-md hover:shadow-lg active:scale-90 transition duration-150'>
           I'm flexible
         </button>
       </div>

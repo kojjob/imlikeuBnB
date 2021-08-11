@@ -5,7 +5,7 @@ function Banner() {
   return (
     <div className='relative h-[300px] sm:h-[400px] lg:h-[500px] xl:h-[600px] 2xl:h-[80vh]'>
       <Image
-        src='https://res.cloudinary.com/dpajlrlfu/image/upload/v1628499287/asad-maldives-1591373_j046mr.jpg'
+        src='https://res.cloudinary.com/dpajlrlfu/image/upload/v1628503577/pexels-julius-silver-870711_ukgnz0.jpg'
         layout='fill'
         objectFit='cover'
         objectPosition='center'

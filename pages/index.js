@@ -32,9 +32,9 @@ export default function Home({ exlporeNearby, cardData }) {
           </div>
         </section>
         <LargeCard
-          img='https://links.papareact.com/4cj'
+          img='https://res.cloudinary.com/dpajlrlfu/image/upload/v1628432620/travel_explore_journey_traveller_travelling_voyage_tourist-603423.jpg_d_h64nif.jpg'
           title='People who love to travel.'
-          description='People who love to create and share links to their friends and family.'
+          description='Unique activities with local experts – in person or online.'
           buttonText='Get Going!'
         />
         <section>

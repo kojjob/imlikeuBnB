@@ -9,10 +9,10 @@ function NearByCard({ img, location, distance }) {
         <Image src={img} layout='fill' className='rounded-xl' />
       </div>
       {/* right */}
-      <dir className='text-gray-500'>
+      <div className='text-gray-500'>
         <h2 className='text-gray-700 font-semibold'>{location}</h2>
         <h2>{distance}</h2>
-      </dir>
+      </div>
     </div>
   )
 }
